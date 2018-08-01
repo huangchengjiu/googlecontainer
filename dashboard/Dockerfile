@@ -1,3 +1,3 @@
-FROM gcr.io/google_containers/kubernetes-dashboard-amd64:3.0
+FROM gcr.io/google_containers/pause-amd64:3.0
 MAINTAINER qiushida@buaa.edu.cn
 
